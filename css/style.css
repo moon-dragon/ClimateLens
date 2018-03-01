@@ -16,7 +16,7 @@ p {
 }
 
 .button-collapse {
-  color: #26a69a;
+  color: #507dbc;
 }
 
 .parallax-container {
@@ -27,6 +27,9 @@ p {
 }
   .parallax-container .section {
     width: 100%;
+  }
+  h1 {
+    color: #507dbc
   }
 
 @media only screen and (max-width : 992px) {
